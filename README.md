@@ -1,5 +1,5 @@
 - 👋 Olá eu sou o João, conhecido como Bode
-- 👀 Estou muito interess em evoluir no mundo Dev, e me focar em JavaScript que se tornou uma paixão
+- 👀 Estou muito interessado em evoluir no mundo Dev, e me focar em JavaScript que se tornou uma paixão
 - 🌱 Atualmente estou focado em aprender tudo sobre o JavaScript, estudando no momento Orientação a Objetos pela Alura
 - 💞️ Estou em busca de colaborar com o mundo, empresas, pessoas e todos aqueles que tambem tem o interesse na programação
 - 📫 Fique avontade para entrar em contato comigo e me manda uma mensagem!
