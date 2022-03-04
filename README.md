@@ -5,6 +5,8 @@
 - 📫 Fique avontade para entrar em contato comigo e me manda uma mensagem!
 - Você pode me encontrar no Linkedin linkedin.com/in/joão-vitor-eusebio-velloso-9099b61a4 ou via e-mail, joaovitorvelloso88@outlook.com
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 - 👋 Hi I'm João, aka Bode
 - 👀 I'm very interested in evolving in the Dev world, and focus on JavaScript which has become a passion
 - 🌱 Currently I'm focused on learning everything about JavaScript, studying at the moment Object Orientation by Alura
