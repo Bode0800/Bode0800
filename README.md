@@ -6,14 +6,6 @@
 - Você pode me encontrar no Linkedin linkedin.com/in/joão-vitor-eusebio-velloso-9099b61a4 ou via e-mail, joaovitorvelloso88@outlook.com
 <div align="center">
   <a href="https://github.com/Bode0800">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bode0800&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bode0800&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-- 👋 Hi I'm João, aka Bode
-- 👀 I'm very interested in evolving in the Dev world, and focus on JavaScript which has become a passion
-- 🌱 Currently I'm focused on learning everything about JavaScript, studying at the moment Object Orientation by Alura
-- 💞️ I'm looking to collaborate with the world, companies, people and all those who also have the interest in programming
-- 📫 Feel free to contact me and send me a message!
-- You can find me at Linkedin linkedin.com/in/joão-vitor-eusebio-velloso-9099b61a4 and also by my e-mail, joaovitorvelloso88@outlook.com 
